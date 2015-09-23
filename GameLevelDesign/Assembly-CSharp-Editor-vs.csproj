@@ -59,10 +59,10 @@
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
      <None Include="Assets\TerrainToolkit\Read me.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/arivera10/Desktop/GameLevelDesign_092315/GameLevelDesign_092315/GameLevelDesign_090915/GameLevelDesign/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>E:/arivera10/GameLevelDesign/GameLevelDesign/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/arivera10/Desktop/GameLevelDesign_092315/GameLevelDesign_092315/GameLevelDesign_090915/GameLevelDesign/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>E:/arivera10/GameLevelDesign/GameLevelDesign/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
