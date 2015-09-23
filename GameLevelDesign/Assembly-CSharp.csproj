@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SCRIPTS\Lights.cs" />
-     <Compile Include="Assets\SCRIPTS\Nav.cs" />
+     <Compile Include="Assets\SCRIPTS\Nav\ClickNav.cs" />
+     <Compile Include="Assets\SCRIPTS\Nav\Nav.cs" />
+     <Compile Include="Assets\SCRIPTS\Nav\Patrol.cs" />
      <Compile Include="Assets\SCRIPTS\TeleTarget.cs" />
      <Compile Include="Assets\SCRIPTS\Teleporter.cs" />
      <Compile Include="Assets\TerrainToolkit\TerrainToolkit.cs" />
